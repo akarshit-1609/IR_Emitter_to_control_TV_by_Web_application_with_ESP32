@@ -75,6 +75,12 @@ Once the code is uploaded, connect any device with esp32 wifi by ssid and passwo
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/c2908d39-07e9-48ba-b319-555be1b3d2b5
+
+---
+
 ## Troubleshooting
 
 - Make sure the IR Emitter LED is properly connected.
